@@ -1,7 +1,7 @@
 # US Wheat Diversity
 
-**Author: Yuan Chai**  
-**Email: chaix026@umn.edu**  
+**Authors: Yuan Chai, Philip Pardey, Kevin Silverstein**  
+**Corresponence to: chaix026@umn.edu**  
 
 ## Code availability
 This repository collects the R codes used for the analysis of US wheat crop varietal diversity for the paper titled "Scientific Selection: A Century of Increasing Crop Varietal Diversity in U.S. Wheat". These codes are provided here for the purpose of replication of the results reported in the study.
