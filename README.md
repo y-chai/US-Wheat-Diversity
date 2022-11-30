@@ -1,6 +1,6 @@
 # US Wheat Diversity
 
-**Authors: Yuan Chai, Philip Pardey, Kevin Silverstein**  
+**Authors: Yuan Chai, Philip G. Pardey, Kevin Silverstein**  
 **Corresponence to: chaix026@umn.edu**  
 
 ## Code availability
